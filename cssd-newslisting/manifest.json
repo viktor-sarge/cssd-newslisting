@@ -1,0 +1,18 @@
+{
+  "id": "cssd-newslisting",
+  "version": "0.0.1",
+  "name": {
+    "en": "CSSD Newslisting",
+    "sv": "CSSD Nyhetslistning"
+  },
+  "author": "Viktor Sarge",
+  "description": {
+    "en": "Nyhetslistning för CSSD-utbildningens certifieringsuppgift 1"
+  },
+  "helpUrl": "https://example.com/webapps",
+  "type": "WebApp",
+  "bundled": true,
+  "requiredLibs": {
+    "react": "17.0.2"
+  }
+}
